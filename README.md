@@ -5,7 +5,7 @@ Web developer and designer
 --------------------------
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [my personal page](http://suprocket.ru)
+* 🖥️  See my portfolio at [my personal page](http://hvalic.com)
 * ✉️  You can contact me at [suprocketdev@gmail.com](mailto:suprocketdev@gmail.com)
 * 🧠  I'm learning react framework
 * 🤝  I'm open to collaborating on interesting projects
